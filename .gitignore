@@ -1,0 +1,13 @@
+*.pyc
+*.log
+*~
+.idea/
+.settings/
+/env/
+/source/local.py
+/data/
+/dev/ssl/
+/static/
+tmp/
+_build/
+_autosummary/
