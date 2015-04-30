@@ -3,6 +3,7 @@ Todo
 ----------
 
 * coding: WebStorm IDE; useCoffeeScript and SASS (while we're trying new things anyway)
+  - coffee and node: http://stackoverflow.com/questions/4679782/can-i-use-coffeescript-instead-of-js-for-node-js
 * server-side: node.js - http://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js
 * client-side: peer.js - http://peerjs.com/ & bootstrap
 * SSL: https://www.startssl.com/?app=1
@@ -15,8 +16,8 @@ Todo
 
 Misc
 ----------
-* cooking for one session
-* secure connection (but p2p can't be secure?)
+* cooking for one session --> ??
+* secure connection --> automatic
 * do bootstrap fonts work?
 *
 
