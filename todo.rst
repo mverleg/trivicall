@@ -1,4 +1,7 @@
 
+Trivicall: http://blog.vline.com/post/52644825765/tunneling-webrtc-over-tcp-and-why-it-matters
+Upload progress bar
+
 Todo
 ----------
 
@@ -19,5 +22,6 @@ Misc
 * cooking for one session --> ??
 * secure connection --> automatic
 * do bootstrap fonts work?
-*
+* http://blog.vline.com/post/52644825765/tunneling-webrtc-over-tcp-and-why-it-matters
+* 
 
